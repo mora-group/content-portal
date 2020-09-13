@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^(.*)$ htdocs/$1 [L]
